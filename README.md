@@ -1,6 +1,9 @@
 ### Follow these commands to run the project
 
 1- Clone the repo first
+```
+git clone https://github.com/UsmanFazil/Relayer.git
+```
 
 2- Install dependencies
 ```
